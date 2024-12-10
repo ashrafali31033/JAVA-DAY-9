@@ -24,7 +24,7 @@ public class countchar {
                 num++;
 
             }
-            else if(!Character.isWhitespace(ch));
+            else
             {
                 specialchar++;
             }
